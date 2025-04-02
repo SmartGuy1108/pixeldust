@@ -57,6 +57,9 @@ export default function Parts() {
               Texas Instruments TPS568215RNNR
             </a>
           </li>
+          <li>
+            Any resistors/capacitors you need
+          </li>
         </ul>
 
         <h2 className="mb-2 text-xl font-semibold">SOLDERING IRON:</h2>
