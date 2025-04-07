@@ -47,7 +47,7 @@ const Guidelines = () => {
 
         <h1 className="mb-2 text-2xl font-bold">Requirements:</h1>
         <p className="mt-4">PCB should be 2 layered</p>
-        <p className="mt-4">Max 100 cm²</p>
+        <p className="mt-4">Max 100mm²</p>
 
         <h1 className="mt-10 mb-2 text-2xl font-bold">Tutorial:</h1>
         <p className="mt-4">
